@@ -10,8 +10,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 40px;
-    color: gray;
+    font-size: 50px;
+    color: red;
 }
 footer{
     width: "100%";
@@ -156,8 +156,8 @@ hr{
         display: flex;
         justify-content: center;
         align-items: center;
-        font-size: 40px;
-        color: gray;
+        font-size: 50px;
+        color: red;
     }
     footer{
         width: "100%";
@@ -301,12 +301,12 @@ hr{
 @media (max-width: 499px){
     .maincontant{
         width: "100%";
-        height: 100px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        font-size: 40px;
-        color: gray;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: red;
     }
     footer{
         width: "100%";
